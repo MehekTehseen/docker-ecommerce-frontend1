@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# docker-ecommerce-frontend1" 
 "# docker-ecommerce-frontend1" 
 "# docker-ecommerce-frontend1" 
+"# docker-ecommerce-frontend" 
